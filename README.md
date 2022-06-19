@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0xsajjad
 - 👀 I’m interested in embedded software development
 - 🌱 I’m currently learning software architecture and design
-- 💞️ I’m looking to collaborate on system level software or anyother intresting project
+- 💞️ I’m open to collaborate on system level software or any other intresting C/C++ project
 - 📫 You can reach at 0xsajjad@gmail.com
 
 <!---
